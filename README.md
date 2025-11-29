@@ -13,7 +13,9 @@ A sleek and modern application launcher for Windows that allows you to organize 
 
 ## Screenshots
 
-<img width="990" height="904" alt="image" src="https://github.com/user-attachments/assets/ca58567c-0800-44a9-9c6a-142d6aab9637" />
+<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/ca58567c-0800-44a9-9c6a-142d6aab9637" />
+<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/d322a3d3-72a8-4592-856c-32c6f1b42141" />
+
 
 ## Installation
 
