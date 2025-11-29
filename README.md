@@ -121,9 +121,4 @@ If you encounter any issues or have suggestions:
 
 - Built with .NET 8 and WPF
 - Icons from [source]
-- Inspired by modern launcher applications</content>
-<<<<<<< HEAD
-<parameter name="filePath">c:\Users\pover\Desktop\Projects\MultiRun\README.md
-=======
-<parameter name="filePath">c:\Users\pover\Desktop\Projects\MultiRun\README.md
->>>>>>> 1ea1efcc042b0d7c0df772ef69a992c9b121fde5
+- Inspired by modern launcher applications
