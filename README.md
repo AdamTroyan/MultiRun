@@ -13,7 +13,7 @@ A sleek and modern application launcher for Windows that allows you to organize 
 
 ## Screenshots
 
-*(Add screenshots here)*
+<img width="990" height="904" alt="image" src="https://github.com/user-attachments/assets/ca58567c-0800-44a9-9c6a-142d6aab9637" />
 
 ## Installation
 
