@@ -122,5 +122,4 @@ If you encounter any issues or have suggestions:
 ## Acknowledgments
 
 - Built with .NET 8 and WPF
-- Icons from [source]
 - Inspired by modern launcher applications
