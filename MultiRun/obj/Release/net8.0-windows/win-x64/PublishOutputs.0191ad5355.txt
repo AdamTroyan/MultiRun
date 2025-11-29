@@ -1,0 +1,2 @@
+C:\Users\pover\Desktop\Projects\MultiRun\MultiRun\bin\Release\net8.0-windows\win-x64\publish\MultiRun.pdb
+C:\Users\pover\Desktop\Projects\MultiRun\MultiRun\bin\Release\net8.0-windows\win-x64\publish\MultiRun.exe
